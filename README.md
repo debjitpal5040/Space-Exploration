@@ -9,8 +9,8 @@ Who does not love Space?
 The data includes all the space missions since the beginning of the Space Race (1957).
 
 
-# Chloropeth of the countries involved in the great space race.
+# Choropleth of the countries involved in the great space race.
 
  The plot may not be visible in the notebook itself due to limited rendering, so adding this in here.
 
- ![choropleth](newplot.png)
+ ![choropleth](images/choropleth.png)
